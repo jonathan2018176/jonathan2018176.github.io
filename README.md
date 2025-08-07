@@ -24,3 +24,4 @@
 ## Credit Card Approval Prediction | Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn)
 -Processed 1,000+ credit card records using data cleaning, encoding, and scaling. Built a logistic regression model with 85% accuracy and evaluated it with precision, recall, and F1-score. Visualized insights using Matplotlib and Seaborn.
 
+test
