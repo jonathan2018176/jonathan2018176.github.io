@@ -20,6 +20,7 @@
 ### Projects
 ## Public Transportation Use Tracker | SQL, Tableau
 -Designed a SQL database to manage 12,000+ trip records across transportation modes from 500 users. Optimized queries with indexing, sequences, and triggers, and visualized spending patterns and route insights with Tableau.
+[Github](https://github.com/jonathan2018176/Public_Transit_Usage_Tracker/)
 
 ## Credit Card Approval Prediction | Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn)
 -Processed 1,000+ credit card records using data cleaning, encoding, and scaling. Built a logistic regression model with 85% accuracy and evaluated it with precision, recall, and F1-score. Visualized insights using Matplotlib and Seaborn.  
