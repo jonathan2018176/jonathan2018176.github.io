@@ -19,8 +19,7 @@
 
 ### Projects
 ## Public Transportation Use Tracker | SQL, Tableau
--Designed a SQL database to manage 12,000+ trip records across transportation modes from 500 users. Optimized queries with indexing, sequences, and triggers, and visualized spending patterns and route insights with Tableau.
-[Github](https://github.com/jonathan2018176/Public_Transit_Usage_Tracker/)
+-Designed a SQL database to manage 12,000+ trip records across transportation modes from 500 users. Optimized queries with indexing, sequences, and triggers, and visualized spending patterns and route insights with Tableau [Github](https://github.com/jonathan2018176/Public_Transit_Usage_Tracker/)  
 ![Public Transport](assets/public-transport-rapid-transit-tram-600nw-2142276519.png)
 
 
