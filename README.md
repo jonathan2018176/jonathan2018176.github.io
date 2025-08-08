@@ -2,31 +2,33 @@
 
 #### Technical Skills: Python, SQL, R, AWS, Excel, PowerBI, Tableau, Apache Airflow
 
-### Education 
+## Education 
 - M.S., Applied Data Analytics | Boston University Metropolitan College (Expected May 2026)  
 - B.S., Business Administration - Finance | Northeastern University (May 2023)
 
-### Work Experience
-## Client Operations Co-op @ Arrowstreet Capital LP. (2021)
-- Used Microsoft SQL to extract industry-standard SEDOL identifiers, aligning security data across systems and improving reconciliation accuracy by 25%.  
-- Implemented structured data handling protocols such as standardized naming conventions and automated data
-validation to enhance client data management, improving reconciliation speed and workflow efficiency by 20%.
-- Developed streamlined processes to support Client Reporting and Client Implementation, increasing workflow
-efficiency by 15% through the automation of recurring reports, standardization of data intake procedures, and improved coordination across reporting systems.
-- Streamlined the data reconciliation process by integrating a dynamic Excel dashboard, reducing data handling time by 25% and enhancing accuracy in reporting initiatives to support Client Reporting and Client implementation.
+## Work Experience
 
-## Marketing Analyst Co-op @ Amazon Global Selling (2020)
-- Prepared and analyzed weekly new seller metrics in Excel by using pivot tables to identify trends in seller performance that led to a 10% increase in onboarding efficiency. 
-- Coordinated and executed digital marketing campaigns for cross-border e-commerce initiatives, achieving a 15% increase in new seller acquisition through targeted social media strategies such as region-specific ad creatives and A/B testing, informed by performance metrics like click-through and conversion rates.
-- Authored two Amazon style 6-pagers: one expanding social media channels for Amazon Taiwan Global Selling and another performing a competitor analysis of Amazon Taiwan Global Selling.
+![Arrowstreet Capital](assets/g744517g0823043901741.jpg)
+### Client Operations Co-op @ Arrowstreet Capital LP. (2021)
+- Used Microsoft SQL to extract SEDOL identifiers, aligning security data across systems and improving reconciliation accuracy by 25%.
+- Standardized naming conventions and automated data validation, boosting reconciliation speed and workflow efficiency by 20%.
+- Automated recurring reports and standardized data intake, increasing Client Reporting and Implementation efficiency by 15%.
+- Built a dynamic Excel dashboard to streamline reconciliation, cutting handling time by 25% and improving reporting accuracy.
 
-### Projects
-## Public Transportation Use Tracker | SQL, Tableau
+![Amazon Global Selling](assets/images.png)
+### Marketing Analyst Co-op @ Amazon Global Selling (2020)
+- Analyzed weekly new seller metrics in Excel using pivot tables, improving onboarding efficiency by 10%.
+- Managed cross-border e-commerce campaigns, boosting new seller acquisition by 15% through targeted social media strategies and A/B testing.
+- Wrote two Amazon-style 6-pagers on expanding social media channels and conducting competitor analysis for Amazon Taiwan Global Selling.
+
+## Projects
+
+### Public Transportation Use Tracker | SQL, Tableau
 - Designed a SQL database to manage 12,000+ trip records across transportation modes from 500 users. Optimized queries with indexing, sequences, and triggers, and visualized spending patterns and route insights with Tableau [Github](https://github.com/jonathan2018176/Public_Transit_Usage_Tracker/)  
 ![Public Transport](assets/public-transport-rapid-transit-tram-600nw-2142276519.png)
 
 
-## Credit Card Approval Prediction | Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn)
+### Credit Card Approval Prediction | Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn)
 - Processed 1,000+ credit card records using data cleaning, encoding, and scaling. Built a logistic regression model with 85% accuracy and evaluated it with precision, recall, and F1-score. Visualized insights using Matplotlib and Seaborn.  [Github](https://github.com/jonathan2018176/Credit-Card-Approval-Prediction/)
 ![Approved](assets/preapproved-credit-cards.png)
 ![Correlation Heatmap](assets/Correlation_HeatMap.png)
