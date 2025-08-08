@@ -8,14 +8,12 @@
 
 ## Work Experience
 
-![Arrowstreet Capital](assets/g744517g0823043901741.jpg)
 ### Client Operations Co-op @ Arrowstreet Capital LP. (2021)
 - Used Microsoft SQL to extract SEDOL identifiers, aligning security data across systems and improving reconciliation accuracy by 25%.
 - Standardized naming conventions and automated data validation, boosting reconciliation speed and workflow efficiency by 20%.
 - Automated recurring reports and standardized data intake, increasing Client Reporting and Implementation efficiency by 15%.
 - Built a dynamic Excel dashboard to streamline reconciliation, cutting handling time by 25% and improving reporting accuracy.
 
-![Amazon Global Selling](assets/images.png)
 ### Marketing Analyst Co-op @ Amazon Global Selling (2020)
 - Analyzed weekly new seller metrics in Excel using pivot tables, improving onboarding efficiency by 10%.
 - Managed cross-border e-commerce campaigns, boosting new seller acquisition by 15% through targeted social media strategies and A/B testing.
