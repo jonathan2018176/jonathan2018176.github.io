@@ -8,7 +8,7 @@
 
 ### Work Experience
 ## Client Operations Co-op @ Arrowstreet Capital LP. (2021)
--Used Microsoft SQL to extract industry-standard SEDOL identifiers, aligning security data across systems and improving reconciliation accuracy by 25%.
+-Used Microsoft SQL to extract industry-standard SEDOL identifiers, aligning security data across systems and improving reconciliation accuracy by 25%.  
 -Automated reporting and data intake processes, reducing manual work by 15%  
 -Built Excel dashboard for reconciliation, cutting data handling time by 25%  
 
